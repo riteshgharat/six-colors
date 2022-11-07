@@ -1,2 +1,5 @@
 # six-colors
-Web Game
+* Web Game
+
+## Preview 
+[https://six-colors.netlify.app](https://six-colors.netlify.app)
